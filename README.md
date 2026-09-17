@@ -23,7 +23,7 @@
 
 ###
 
-<p data-importer="text" align="center">🎓 Management Graduate | Universitas Singaperbangsa Karawang<br>📊 Interested in Data Analysis, Business Planning & Process Improvement<br>💻 Excel | SQL | Python | Power BI<br>🏭 Planning Staff | Manufacturing Industry<br><br>I enjoy turning data into insights, improving processes, and learning how technology can support better business decisions.</p>
+<p data-importer="text" align="center">🎓 Management Graduate | Universitas Singaperbangsa Karawang<br>📊 Interested in Data Analysis, Business Planning & Process Improvement<br>💻 Machine Learning | SQL | Python | Power BI<br>🏭 Planning Staff | Manufacturing Industry<br><br>I enjoy turning data into insights, improving processes, and learning how technology can support better business decisions.</p>
 
 ###
 
